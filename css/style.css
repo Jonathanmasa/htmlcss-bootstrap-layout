@@ -1,7 +1,8 @@
 /* regole griglie */
 .container div {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
+
 .col {
-    margin: 10px 5px;
+    padding: 30px;
 }
